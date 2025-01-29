@@ -12,9 +12,13 @@ An e-commerce platform that replicates the core functionality of Amazon, allowin
 
 # Usage
 Home Page: Displays featured products and categories.
+
 Product Detail Page: Click on a product to see more details, images, and specifications.
+
 Shopping Cart: View the items added to the cart, update quantities, and remove products.
+
 Checkout: Input shipping address and proceed with payment (mock payment for demo purposes).
+
 Admin Panel: Optionally, manage the products (add/update/delete) through the admin interface.
 
 # Contributing
